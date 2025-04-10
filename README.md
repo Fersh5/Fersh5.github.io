@@ -7,15 +7,17 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/Fersh_dev"><img width="32px" alt="Twitter" title="Twitter" src="assets/pixel--x.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.instagram.com/fersh_dev/"><img width="32px" alt="Twitter" title="Twitter" src="assets/pixel--instagram.png"/></a>
+   <a href="https://www.instagram.com/fersh_dev/"><img width="32px" alt="Twitter" title="Instagram" src="assets/pixel--instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<p align="center">
-<br>
 <!-- Social badges section -->
+<p align="center">
 👨‍💻👨‍💻 Languages and Technologies 👨‍💻👨‍💻 <br>
-<a href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=py,git,vscode,anaconda,gcp,bash,postgres,linux,github,js,html,css)](https://skillicons.dev)
+
+<p align="center">
+<a href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 </p>
