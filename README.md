@@ -9,15 +9,29 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.instagram.com/fersh_dev/"><img width="32px" alt="Twitter" title="Instagram" src="assets/pixel--instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://fersh5.github.io/"><img width="32px" alt="Page_Fersh5" title="Page" src="assets/pixel--globe.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!-- Social badges section -->
-<p align="center">
-👨‍💻👨‍💻 Languages and Technologies 👨‍💻👨‍💻 <br>
-</p>
+# 🌐 Fersh5 Portfolio Website
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,vscode,anaconda,gcp,bash,postgres,linux,github,js,html,css)](https://skillicons.dev)
+This repository contains the source code for my personal portfolio website, hosted at **[Fersh5.github.io](https://Fersh5.github.io)**.
 
-<p align="center">
-<a href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
-</p>
+The website includes:
+
+- 👋 A short introduction about me
+- 💼 Descriptions of selected projects
+- 🔗 Direct links to project repositories and live demos
+- 📫 Contact information
+
+## 🚀 Purpose
+
+This portfolio was created to showcase my skills, personal and academic projects, and to provide a quick way for potential employers and collaborators to get to know my work.
+
+## 🛠️ Tech Stack
+
+- Python / Numpy / Pandas / Streamlit
+- HTML / CSS / JavaScript  
+
+---
+Thanks for visiting! ✨
